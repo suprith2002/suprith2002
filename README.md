@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Suprith R Korishettar</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
 
+- ❤️ I am Currently Working as a Data Scientist in Autoverse Mobility Limited 🚗
+
 - 🌱 I love learning as a process and mostly about new things...
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
