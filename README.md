@@ -43,6 +43,8 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 <p align="left">
 <a href="https://instagram.com/suprith_r_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suprith_r_k" height="30" width="40" /></a>
 
+<a href="https://web.whatsapp.com/" target="blank"><img align="center" src="https://tochat.be/whatsapp-icon-green.jpg" alt="whatsapp" height="30" width="40" /></a>
+
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 
 
