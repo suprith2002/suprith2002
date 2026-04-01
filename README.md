@@ -7,7 +7,7 @@
 
 - 🌱 I love learning as a process and mostly about new things...
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently Working **Machine Learning and Deep Learning**
 
 - 👯 I’m looking to collaborate on **on all topics related to Data Science, Machine Learning and Artificial Intellegence**
 
